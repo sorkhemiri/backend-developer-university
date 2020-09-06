@@ -63,6 +63,10 @@
     - [OAuth 2.0 Debugger](https://oauthdebugger.com/)
     - [OpenID Connect Debugger](https://oidcdebugger.com/)
 
+## Authorization:
+- [ ] [What is authorization?](https://searchsoftwarequality.techtarget.com/definition/authorization)
+- [ ] [A Logic Programming View of Authorization in Distributed Systems](https://link.springer.com/chapter/10.1007/978-3-540-24599-5_3)
+
 ## Docker
 <img src="images/docker.png" width="755" height="422">
 
